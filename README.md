@@ -1,6 +1,5 @@
 # graphql-example-backend
 
-
 The dev build will not have the reload on window because docker can't catch right signal from ntfs file system.
 
 Change `$(pwd)` to `$PWD` from prod build on windows (in powershell).
